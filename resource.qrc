@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>checked.png</file>
+        <file>chocolate.png</file>
+        <file>coffee1page.jpg</file>
+        <file>coffee2page.jpg</file>
+        <file>coffee3page.png</file>
+        <file>espresso.png</file>
+        <file>loginback.png</file>
+        <file>machine learn.png</file>
+        <file>mocha.png</file>
+        <file>dev1.png</file>
+        <file>dev2.png</file>
+        <file>dev3.png</file>
+        <file>chocolate-bar.png</file>
+        <file>coffee.png</file>
+        <file>milk.png</file>
+        <file>sugar.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>waitingPage.qml</file>
+        <file>login.qml</file>
+        <file>main.qml</file>
+        <file>loginback.png</file>
+        <file>loginform.js</file>
+        <file>orderPage.qml</file>
+        <file>fillingPage.qml</file>
+        <file>janko.jpg</file>
+        <file>coffee_cup_back.png</file>
+        <file>coffee_cup_front.png</file>
+        <file>liquid_coffee.png</file>
+        <file>liquid_foam.png</file>
+        <file>liquid_milk.png</file>
+        <file>money.png</file>
+        <file>coffee-cup.png</file>
+        <file>texture.jpg</file>
+        <file>completePage.qml</file>
+        <file>feedback.qml</file>
+        <file>favourites.png</file>
+        <file>backgroud.png</file>
+        <file>main_navigation.qml</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2.qml</file>
+        <file>Page2Form.ui.qml</file>
+    </qresource>
+</RCC>
